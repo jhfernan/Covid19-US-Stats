@@ -122,10 +122,11 @@
 						md="4"
 						lg="3">
 						<v-card>
-							<v-card-title class="subheading font-weight-bold">
-								{{ item.state }}
-							</v-card-title>
-							<v-divider />
+							<v-toolbar
+								:color="item.republican ? 'red darken-4' : 'blue accent-3'"
+								dark>
+								<v-toolbar-title> {{ item.state }}</v-toolbar-title>
+							</v-toolbar>
 							<v-list dense>
 								<v-list-item
 									:key="index"
