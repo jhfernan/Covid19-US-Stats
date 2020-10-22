@@ -2,261 +2,313 @@
 	{
 		"state": "New York",
 		"cases": 493000,
-		"deaths": 33005
+		"deaths": 33005,
+		"republican": false
 	},
 	{
 		"state": "Texas",
 		"cases": 881000,
-		"deaths": 17646
+		"deaths": 17646,
+		"republican": true
 	},
 	{
 		"state": "California",
 		"cases": 889000,
-		"deaths": 17130
+		"deaths": 17130,
+		"republican": false
 	},
 	{
 		"state": "New Jersey",
 		"cases": 225000,
-		"deaths": 16245
+		"deaths": 16245,
+		"republican": false
 	},
 	{
 		"state": "Florida",
 		"cases": 760000,
-		"deaths": 16104
+		"deaths": 16104,
+		"republican": true
 	},
 	{
 		"state": "Massachusetts",
 		"cases": 145000,
-		"deaths": 9758
+		"deaths": 9758,
+		"republican": true
 	},
 	{
 		"state": "Illinois",
 		"cases": 360000,
-		"deaths": 9619
+		"deaths": 9619,
+		"republican": false
 	},
 	{
 		"state": "Pennsylvania",
 		"cases": 191000,
-		"deaths": 8629
+		"deaths": 8629,
+		"republican": false
 	},
 	{
 		"state": "Georgia",
 		"cases": 328000,
-		"deaths": 7494
+		"deaths": 7494,
+		"republican": true
 	},
 	{
 		"state": "Michigan",
 		"cases": 166000,
-		"deaths": 7386
+		"deaths": 7386,
+		"republican": false
 	},
 	{
 		"state": "Arizona",
 		"cases": 234000,
-		"deaths": 5854
+		"deaths": 5854,
+		"republican": true
 	},
 	{
 		"state": "Louisiana",
 		"cases": 181000,
-		"deaths": 5790
+		"deaths": 5790,
+		"republican": false
 	},
 	{
 		"state": "Ohio",
 		"cases": 188000,
-		"deaths": 5149
+		"deaths": 5149,
+		"republican": true
 	},
 	{
 		"state": "Connecticut",
 		"cases": 64455,
-		"deaths": 4559
+		"deaths": 4559,
+		"republican": false
 	},
 	{
 		"state": "Maryland",
 		"cases": 138000,
-		"deaths": 4058
+		"deaths": 4058,
+		"republican": true
 	},
 	{
 		"state": "Indiana",
 		"cases": 155000,
-		"deaths": 4023
+		"deaths": 4023,
+		"republican": true
 	},
 	{
 		"state": "North Carolina",
 		"cases": 249000,
-		"deaths": 4019
+		"deaths": 4019,
+		"republican": false
 	},
 	{
 		"state": "South Carolina",
 		"cases": 166000,
-		"deaths": 3708
+		"deaths": 3708,
+		"republican": true
 	},
 	{
 		"state": "Virginia",
 		"cases": 169000,
-		"deaths": 3515
+		"deaths": 3515,
+		"republican": false
 	},
 	{
 		"state": "Mississippi",
 		"cases": 112000,
-		"deaths": 3223
+		"deaths": 3223,
+		"republican": true
 	},
 	{
 		"state": "Tennessee",
 		"cases": 232000,
-		"deaths": 2945
+		"deaths": 2945,
+		"republican": true
 	},
 	{
 		"state": "Alabama",
 		"cases": 176000,
-		"deaths": 2828
+		"deaths": 2828,
+		"republican": true
 	},
 	{
 		"state": "Missouri",
 		"cases": 165000,
-		"deaths": 2670
+		"deaths": 2670,
+		"republican": true
 	},
 	{
 		"state": "Washington",
 		"cases": 104000,
-		"deaths": 2380
+		"deaths": 2380,
+		"republican": false
 	},
 	{
 		"state": "Minnesota",
 		"cases": 127000,
-		"deaths": 2334
+		"deaths": 2334,
+		"republican": false
 	},
 	{
 		"state": "Colorado",
 		"cases": 87966,
-		"deaths": 2212
+		"deaths": 2212,
+		"republican": false
 	},
 	{
 		"state": "Nevada",
 		"cases": 92076,
-		"deaths": 1732
+		"deaths": 1732,
+		"republican": false
 	},
 	{
 		"state": "Arkansas",
 		"cases": 100000,
-		"deaths": 1728
+		"deaths": 1728,
+		"republican": true
 	},
 	{
 		"state": "Wisconsin",
 		"cases": 192000,
-		"deaths": 1705
+		"deaths": 1705,
+		"republican": false
 	},
 	{
 		"state": "Iowa",
 		"cases": 110000,
-		"deaths": 1583
+		"deaths": 1583,
+		"republican": true
 	},
 	{
 		"state": "Kentucky",
 		"cases": 92126,
-		"deaths": 1419
+		"deaths": 1419,
+		"republican": false
 	},
 	{
 		"state": "Oklahoma",
 		"cases": 111000,
-		"deaths": 1210
+		"deaths": 1210,
+		"republican": true
 	},
 	{
 		"state": "Rhode Island",
 		"cases": 28649,
-		"deaths": 1164
+		"deaths": 1164,
+		"republican": false
 	},
 	{
 		"state": "Kansas",
 		"cases": 76013,
-		"deaths": 952
+		"deaths": 952,
+		"republican": false
 	},
 	{
 		"state": "New Mexico",
 		"cases": 37896,
-		"deaths": 942
+		"deaths": 942,
+		"republican": false
 	},
 	{
 		"state": "Puerto Rico",
 		"cases": 58830,
-		"deaths": 774
+		"deaths": 774,
+		"republican": false
 	},
 	{
 		"state": "Delaware",
 		"cases": 23375,
-		"deaths": 670
+		"deaths": 670,
+		"republican": false
 	},
 	{
 		"state": "Washington, D.C.",
 		"cases": 16498,
-		"deaths": 642
+		"deaths": 642,
+		"republican": false
 	},
 	{
 		"state": "Oregon",
 		"cases": 40264,
-		"deaths": 638
+		"deaths": 638,
+		"republican": false
 	},
 	{
 		"state": "Nebraska",
 		"cases": 59409,
-		"deaths": 575
+		"deaths": 575,
+		"republican": true
 	},
 	{
 		"state": "Utah",
 		"cases": 98006,
-		"deaths": 557
+		"deaths": 557,
+		"republican": true
 	},
 	{
 		"state": "Idaho",
 		"cases": 55153,
-		"deaths": 541
+		"deaths": 541,
+		"republican": true
 	},
 	{
 		"state": "New Hampshire",
 		"cases": 9828,
-		"deaths": 468
+		"deaths": 468,
+		"republican": true
 	},
 	{
 		"state": "North Dakota",
 		"cases": 34170,
-		"deaths": 427
+		"deaths": 427,
+		"republican": true
 	},
 	{
 		"state": "West Virginia",
 		"cases": 20734,
-		"deaths": 413
+		"deaths": 413,
+		"republican": true
 	},
 	{
 		"state": "South Dakota",
 		"cases": 35044,
-		"deaths": 333
+		"deaths": 333,
+		"republican": true
 	},
 	{
 		"state": "Montana",
 		"cases": 24818,
-		"deaths": 276
+		"deaths": 276,
+		"republican": false
 	},
 	{
 		"state": "Hawaii",
 		"cases": 14302,
-		"deaths": 188
+		"deaths": 188,
+		"republican": false
 	},
 	{
 		"state": "Maine",
 		"cases": 6027,
-		"deaths": 146
+		"deaths": 146,
+		"republican": false
 	},
 	{
 		"state": "Alaska",
 		"cases": 12349,
-		"deaths": 63
+		"deaths": 63,
+		"republican": true
 	},
 	{
 		"state": "Wyoming",
 		"cases": 9526,
-		"deaths": 61
+		"deaths": 61,
+		"republican": true
 	},
 	{
 		"state": "Vermont",
 		"cases": 1971,
-		"deaths": 58
+		"deaths": 58,
+		"republican": true
 	}
 ]
